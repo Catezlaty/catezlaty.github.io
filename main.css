@@ -3,7 +3,8 @@ html, body {
     margin: 50;
     width: 100%;
     height: 100%;
-    background-color:#40E0D0;
+    background-color:black;
+
 }
 
 h1 { font-family:times, serif;
@@ -19,6 +20,8 @@ p { font-size: 0.75rem;
  div{color: green;
  }
  .navbar{color:red;
+   background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/68/Hristo_Zlatanov2.jpg");
+   background-size: "cover";
  }
  #nav1_id{color: orange;
  }
@@ -29,7 +32,9 @@ p { font-size: 0.75rem;
  font-family:verdana, sans-serif;
  font-size:20px;
 }
-.class banner{font-family:helvetica, sans-serif;
+.banner{
+  font-family:helvetica, sans-serif;
+
 }
 h4{font-family:comic,verdana,arial;
   color:#A0CE00;
