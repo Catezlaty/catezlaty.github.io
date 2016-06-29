@@ -5,10 +5,11 @@ html, body {
     height: 100%;
     background-color:purple;
 }
-table{font-family:verdana,comic,sans-serif;
-color:yellow;
-font-size: 20;
+.menu{font-family:helvetica,times,comic, sans-serif;
+color:white;
+font size:85;
 }
+
 .navclass{font-family:comic;
 font-size:40;
 color:green;
