@@ -1,2 +1,7 @@
-html, body{background-color: yellow;
+html, body{background-color: purple;
+}
+.table{font-family:verdana; sans-serif;
+font-size:40px;
+}
+.nav{font-size:40px;
 }
